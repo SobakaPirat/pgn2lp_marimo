@@ -1,0 +1,1 @@
+### Converter for pgn (chess) files to liquipedia format
